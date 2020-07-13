@@ -17,6 +17,7 @@ class ResumeParser(object):
             'mobile_number'     : None,
             'skills'            : None,
             'education'         : None,
+            'professional experience'  :None,
             'experience'        : None,
             'competencies'      : None,
             'measurable_results': None
